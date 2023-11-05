@@ -1,4 +1,4 @@
-# Project-Scraper
+# Wikipedia-Scraper
 The following project is related to web scraping and storing information about the largest companies in the United States by revenue. This project provides a way to gather and store information about the companies. It is useful in the following areas:
 -It allows market researchers to gather up to date data on the largest companies.
 -It allowed businesses and investors to gain insight into market dynamics which is beneficial for identification of potential partnership opportunities.

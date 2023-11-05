@@ -5,9 +5,9 @@ def main():
 
     for company in companies:
         print(company)
+        
 
 if __name__ == '__main__':
     main()
 
 
-    
